@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527804773777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1926019150",
+    "id" : "E4B81911",
+    "lastKnownWriteTime" : 1527809666,
+    "last_content_update" : 1527809666884,
+    "path" : "C:/Users/mdancho/Google Drive/Business Science/Analysis/market_basket_analysis_instacart/01_Analysis/instacart_market_basket_analysis.Rmd",
+    "project_path" : "01_Analysis/instacart_market_basket_analysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "412,6",
+        "docOutlineSize" : "190",
+        "docOutlineVisible" : "1",
+        "last_setup_crc32" : "BBCF7601417e365d",
+        "scrollLine" : "405",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
